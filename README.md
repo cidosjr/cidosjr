@@ -9,7 +9,7 @@ The main objective of this data science personal project portfolio is to demonst
 # Cid Oliveira
 <sub>*Data Scientist*</sub>
 
-I have been studying ML for two years, I work analyzing data to improve the internal and external processes of the Dean of University Extension at UFBA.
+I have been studying Machine Learning for two years, I work analyzing data to improve the internal and external processes of the Dean of University Extension at UFBA.
 
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
