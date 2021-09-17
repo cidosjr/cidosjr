@@ -24,9 +24,9 @@ The details of each solution are described in the projects below.
 
 **Development:** Git, Linux and Docker. 
 
-**Data Vizualization:** Power BI
+**Data Vizualization:** Power BI, Metabase
 
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series 
+**Machine Learning Modeling:** Classification, Regression and Clustering
 
 **Machine Learning Deployment:** Heroku, Flask and Streamlit.
 
