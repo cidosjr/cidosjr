@@ -28,7 +28,7 @@ The details of each solution are described in the projects below.
 
 **Machine Learning Modeling:** Classification, Regression and Clustering
 
-**Machine Learning Deployment:** Heroku, Flask and Streamlit.
+**Machine Learning Deployment:** AWS,  Heroku, Flask and Streamlit.
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cidosjr/)
